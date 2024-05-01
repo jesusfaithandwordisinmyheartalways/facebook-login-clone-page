@@ -4,6 +4,7 @@ This project is created on the design/ clone of an Facebook Login User Page that
 
 Features:
 - UI design the resembles orginal facebook.com login user page
+- UX design tootip langiage information displyed. 
 
 Overview:
 Screenshots:
